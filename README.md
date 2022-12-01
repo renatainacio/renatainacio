@@ -3,7 +3,6 @@
 About me:
 
 - 🌱 I’m currently studying Java @ Ada and C @ 42SP.
-- 📫 How to reach me: https://www.linkedin.com/in/renata-v-inacio/
 - 😄 Pronouns: She/Her/Hers (Ela/Dela)
 
 <div align="center">
