@@ -2,7 +2,7 @@
 
 About me:
 
-- 🌱 I’m currently studying Java @ Ada and C @ 42SP.
+- 🌱 I’m currently studying Web Fullstack @ Ada and Software Engineering @ 42SP.
 - 😄 Pronouns: She/Her/Hers (Ela/Dela)
 
 <div align="center">
