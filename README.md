@@ -2,7 +2,7 @@
 
 About me:
 
-- 🌱 I’m currently studying Web Fullstack @ Ada and Software Engineering @ 42SP.
+- 🌱 I’m currently studying: Web Fullstack @ Driven (NodeJs/React) and @ Ada(Java Springboot/Angular) and Software Engineering @ 42SP (C/C++).
 - 😄 Pronouns: She/Her/Hers (Ela/Dela)
 
 <div align="center">
