@@ -12,16 +12,24 @@ About me:
   <img height="180em" img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatainacio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-##
+###
+
+### Languages and Tools
   
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Renata-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Renata-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Renata-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Renata-html" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/html5-color.svg">
+  <img align="center" alt="Renata-css" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/css3-color.svg">
+  <img align="center" alt="Renata-js" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/javascript-color.svg">
+  <img align="center" alt="Renata-react" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/react-color.svg">
 </div>
 
-##
+ ###
+  
+ ### Reach me out!
 
 <div> 
   <a href="https://www.linkedin.com/in/renata-v-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
