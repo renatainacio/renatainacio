@@ -3,7 +3,8 @@
 About me:
 
 - 🌱 I’m currently studying: Web Fullstack @ Driven (NodeJs/React) and @ Ada(Java Springboot/Angular) and Software Engineering @ 42SP (C/C++).
-- 😄 Pronouns: She/Her/Hers (Ela/Dela)
+- :woman_student: I have a bachelor degree in Materials Engineering
+- :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher, supporting the whole LATAM Region.
 
 <div align="center">
   <a href="https://github.com/renatainacio">
