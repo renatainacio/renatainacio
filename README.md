@@ -2,7 +2,12 @@
 
 About me:
 
-- 🌱 I’m currently studying: Web Fullstack @ Driven (NodeJs/React) and @ Ada(Java Springboot/Angular) and Software Engineering @ 42SP (C/C++).
+- 🌱 I’m currently studying: 
+ * System Analysis and Development Technology @ XP Educação
+ * Web Fullstack @ Driven (NodeJs/React)
+ * Web FullStack @ Ada(Java Springboot/Angular)
+ * Software Engineering @ 42SP (C/C++)
+
 - :woman_student: I have a bachelor degree in Materials Engineering
 - :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher, supporting the whole LATAM Region.
 
