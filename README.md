@@ -31,6 +31,8 @@ About me:
   <img align="center" alt="Renata-css" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/css3-color.svg">
   <img align="center" alt="Renata-js" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/javascript-color.svg">
   <img align="center" alt="Renata-react" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/react-color.svg">
+  <img align="center" alt="Renata-nodejs" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/nodedotjs-color.svg">
+  <img align="center" alt="Renata-mongodb" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/mongodb-color.svg">
   <img align="center" alt="Renata-python" height="30" width="40" src="https://github.com/renatainacio/renatainacio/blob/main/python-color.svg">
 </div>
 
