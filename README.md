@@ -44,8 +44,6 @@ About me:
   <a href="https://www.linkedin.com/in/renata-v-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:revazgauska@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-# ![Snake animation](https://github.com/renatainacio/renatainacio/blob/output/github-contribution-grid-snake.svg)
-
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
