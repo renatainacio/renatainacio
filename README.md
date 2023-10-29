@@ -10,7 +10,7 @@ About me:
     * Software Engineering @ 42SP (C/C++)
 
 - :woman_student: I have a bachelor degree in Materials Engineering
-- :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher, supporting the whole LATAM Region.
+- :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher.
 
 <div align="center">
   <a href="https://github.com/renatainacio">
