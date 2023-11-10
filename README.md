@@ -6,6 +6,7 @@ About me:
 
 - 🌱 I’m currently studying: 
     * System Analysis and Development Technology @ XP Educação
+    * Computer Engineering @ XP Univesp
     * Web Fullstack @ Driven (NodeJs/React)
     * Software Engineering @ 42SP (C/C++)
 
