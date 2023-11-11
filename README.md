@@ -15,7 +15,7 @@ About me:
   
 <br>
 
-### Skills
+### 🧠 Skills
   
 <div style="display: inline_block">
 
@@ -52,7 +52,7 @@ About me:
 
 <br>
 
-### Just because Github stats are cool
+### 😎 Just because Github stats are cool
 
 <div align="center">
   <a href="https://github.com/renatainacio">
@@ -63,7 +63,7 @@ About me:
 <br>
 <br>
   
- ### Reach me out!
+ ### 🗣️ Reach me out!
 
 <div> 
   <a href="https://www.linkedin.com/in/renata-v-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
