@@ -12,24 +12,19 @@ About me:
 
 - :woman_student: I have a bachelor degree in Materials Engineering
 - :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher.
-
-<div align="center">
-  <a href="https://github.com/renatainacio">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=renatainacio&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatainacio&layout=compact&langs_count=10&theme=dracula"/>
-</div>
   
-###
+<br>
 
 ### Skills
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
    #### Backend
 
-   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007ACC?style=flat&logo=java&logoColor=white">
-   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
-   <img align="center" alt="node" src="https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white">
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+   <img align="center" alt="node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
    <img align="center" alt="express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -55,7 +50,18 @@ About me:
 
 </div>
 
- ###
+<br>
+
+### Just because Github stats are cool
+
+<div align="center">
+  <a href="https://github.com/renatainacio">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=renatainacio&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatainacio&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+<br>
+<br>
   
  ### Reach me out!
 
@@ -63,6 +69,8 @@ About me:
   <a href="https://www.linkedin.com/in/renata-v-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:revazgauska@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+ ###
+ 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatainacio/renatainacio/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatainacio/renatainacio/output/github-contribution-grid-snake.svg" />
