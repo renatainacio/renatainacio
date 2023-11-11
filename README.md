@@ -1,4 +1,4 @@
-### Hi there! 👋 It's nice to see you here!
+### Hi there! Nice to see you here!
 
 About me:
 
