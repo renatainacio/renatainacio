@@ -2,17 +2,24 @@
 
 About me:
 
-- 👩‍💻 I am a Software Developer Intern @ Amazon
+<img alt="Girl coding gif" align="right" src="https://github.com/renatainacio/renatainacio/blob/main/programming.gif" width=35%>
 
-- 🌱 I’m currently studying: 
-    * System Analysis and Development Technology @ XP Educação
-    * Computer Engineering @ XP Univesp
-    * Web Fullstack @ Driven (NodeJs/React)
-    * Software Engineering @ 42SP (C/C++)
+   - 👩‍💻 I am a Software Developer Intern @ Amazon
+   
+   - 🌱 I’m currently studying: 
+       * System Analysis and Development Technology @ XP Educação
+       * Computer Engineering @ XP Univesp
+       * Web Fullstack @ Driven (NodeJs/React)
+       * Software Engineering @ 42SP (C/C++)
+   
+   - :woman_student: I have a bachelor degree in Materials Engineering
+   - :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher.   
 
-- :woman_student: I have a bachelor degree in Materials Engineering
-- :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher.
-  
+
+
+
+</div>
+
 <br>
 
 ### 🧠 Skills
@@ -46,7 +53,6 @@ About me:
    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
    <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-   
 
 </div>
 
@@ -63,7 +69,7 @@ About me:
 <br>
 <br>
   
- ### 🗣️ Reach me out!
+ ### ☕ Reach out, let's have some coffee:
 
 <div> 
   <a href="https://www.linkedin.com/in/renata-v-inacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
