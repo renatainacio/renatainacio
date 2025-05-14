@@ -4,7 +4,7 @@ About me:
 
 <img alt="Girl coding gif" align="right" src="https://github.com/renatainacio/renatainacio/blob/main/programming.gif" width=35%>
 
-   - 👩‍💻 I am a Software Developer Intern @ Amazon
+   - 👩‍💻 I am a Software Developer @ Amazon
    
    - 🌱 I’m currently studying: 
        * System Analysis and Development Technology @ XP Educação
