@@ -9,8 +9,7 @@ About me:
    - 🌱 I’m currently studying: 
        * System Analysis and Development Technology @ XP Educação
        * Computer Engineering @ XP Univesp
-       * Web Fullstack @ Driven (NodeJs/React)
-       * Software Engineering @ 42SP (C/C++)
+       * Software Engineering @ 42SP
    
    - :woman_student: I have a bachelor degree in Materials Engineering
    - :chart_with_upwards_trend: Previously I've worked as a Finance Analyst for 5 years in FP&A in big companies such as Johnson & Johnson and ThermoFisher.   
